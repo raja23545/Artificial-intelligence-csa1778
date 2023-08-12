@@ -1,4 +1,4 @@
-print("Raja shekhar")
+print("Raja sekhar")
 import itertools
 
 def calculate_distance(points, order):
